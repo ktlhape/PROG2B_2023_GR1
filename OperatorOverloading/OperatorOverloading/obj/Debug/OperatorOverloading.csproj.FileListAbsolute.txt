@@ -1,0 +1,8 @@
+D:\VC\PROG6212\GR1\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
+D:\VC\PROG6212\GR1\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+D:\VC\PROG6212\GR1\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+D:\VC\PROG6212\GR1\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR1\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6212\GR1\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR1\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+D:\VC\PROG6212\GR1\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.pdb

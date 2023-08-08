@@ -1,0 +1,8 @@
+D:\VC\PROG6212\GR1\LazyObjects\LazyObjects\bin\Debug\LazyObjects.exe.config
+D:\VC\PROG6212\GR1\LazyObjects\LazyObjects\bin\Debug\LazyObjects.exe
+D:\VC\PROG6212\GR1\LazyObjects\LazyObjects\bin\Debug\LazyObjects.pdb
+D:\VC\PROG6212\GR1\LazyObjects\LazyObjects\obj\Debug\LazyObjects.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR1\LazyObjects\LazyObjects\obj\Debug\LazyObjects.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6212\GR1\LazyObjects\LazyObjects\obj\Debug\LazyObjects.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR1\LazyObjects\LazyObjects\obj\Debug\LazyObjects.exe
+D:\VC\PROG6212\GR1\LazyObjects\LazyObjects\obj\Debug\LazyObjects.pdb

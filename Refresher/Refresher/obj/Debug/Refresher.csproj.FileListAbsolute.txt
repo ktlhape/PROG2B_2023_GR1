@@ -1,0 +1,8 @@
+D:\VC\PROG6212\GR1\Refresher\Refresher\bin\Debug\Refresher.exe.config
+D:\VC\PROG6212\GR1\Refresher\Refresher\bin\Debug\Refresher.exe
+D:\VC\PROG6212\GR1\Refresher\Refresher\bin\Debug\Refresher.pdb
+D:\VC\PROG6212\GR1\Refresher\Refresher\obj\Debug\Refresher.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR1\Refresher\Refresher\obj\Debug\Refresher.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6212\GR1\Refresher\Refresher\obj\Debug\Refresher.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR1\Refresher\Refresher\obj\Debug\Refresher.exe
+D:\VC\PROG6212\GR1\Refresher\Refresher\obj\Debug\Refresher.pdb
