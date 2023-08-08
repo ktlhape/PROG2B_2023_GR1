@@ -25,22 +25,20 @@ namespace OperatorOverloading
         {
             return new Point(p.X + 10, p.Y + 10);
         }
-        public static Point operator + (Point p, int x)
-        {
-            return new Point(p.X + x, p.Y + x);
-        }
+        public static Point operator + (Point p, int x) =>
+          new Point(p.X + x, p.Y + x);
+        
         public static bool operator > (Point p1, Point p2)
         {
             return (p1.X > p2.X && p1.Y > p2.Y);
         }
-        public static bool operator < (Point p1, Point p2)
-        {
-            return (p1.X < p2.X && p1.Y < p2.Y);
-        }
+        public static bool operator < (Point p1, Point p2) =>
+            (p1.X < p2.X && p1.Y < p2.Y);
+        
 
-        public override string ToString()
-        {
-            return $"{this.GetType().Name}\nX: {X}\nY: {Y}\n--------------";
-        }
+        public override string ToString() =>
+       
+           $"{this.GetType().Name}\nX: {X}\nY: {Y}\n--------------";
+        
     }
 }

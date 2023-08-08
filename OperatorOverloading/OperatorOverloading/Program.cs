@@ -22,11 +22,6 @@ namespace OperatorOverloading
             Point pointC = 
                 new Point(pointA.X + pointB.X,pointA.Y + pointB.Y);
             Point pointCC = pointA + pointB;
-
-           
-
-
-
             Console.WriteLine(pointA.ToString());
             Console.WriteLine(pointB.ToString());
             Console.WriteLine(pointC.ToString());
