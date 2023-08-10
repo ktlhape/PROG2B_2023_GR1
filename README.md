@@ -11,7 +11,7 @@
 3. Finalizers / Destructors - Finalizers (historically referred to as destructors) are used to perform any necessary final clean-up when a class instance is being collected by the garbage collector.
 
     > [!IMPORTANT]
-   > Only create destructors when you need to explicitly want to remove your custom objects
+   > Only create destructors when you need to explicitly remove your custom objects
 5. Disposable Objects - In the context of C#, dispose is an object method invoked to execute code required for memory cleanup and release and reset unmanaged resources, such as file handles and database connections.
 
     > [!Note]
