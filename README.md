@@ -16,6 +16,7 @@
 
     > [!Note]
     > To dispose any custom class object, the class has to implement the IDisposable interface.
+    > Watch the video: https://youtu.be/sQn0lBlOcvI
 
 4. Lazy Object Initialization - Lazy initialization is a technique that delays the creation of an object or a value until it is first accessed or needed. This can improve performance and memory usage, especially for expensive or rarely used resources.
 
