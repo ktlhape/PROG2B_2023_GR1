@@ -1,0 +1,8 @@
+D:\VC\PROG6212\GR1\ReferenceTypes\ReferenceTypes\bin\Debug\ReferenceTypes.exe.config
+D:\VC\PROG6212\GR1\ReferenceTypes\ReferenceTypes\bin\Debug\ReferenceTypes.exe
+D:\VC\PROG6212\GR1\ReferenceTypes\ReferenceTypes\bin\Debug\ReferenceTypes.pdb
+D:\VC\PROG6212\GR1\ReferenceTypes\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR1\ReferenceTypes\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6212\GR1\ReferenceTypes\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR1\ReferenceTypes\ReferenceTypes\obj\Debug\ReferenceTypes.exe
+D:\VC\PROG6212\GR1\ReferenceTypes\ReferenceTypes\obj\Debug\ReferenceTypes.pdb

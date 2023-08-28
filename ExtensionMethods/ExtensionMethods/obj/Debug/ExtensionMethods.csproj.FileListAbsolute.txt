@@ -1,0 +1,8 @@
+D:\VC\PROG6212\GR1\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR1\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6212\GR1\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR1\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+D:\VC\PROG6212\GR1\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+D:\VC\PROG6212\GR1\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+D:\VC\PROG6212\GR1\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+D:\VC\PROG6212\GR1\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

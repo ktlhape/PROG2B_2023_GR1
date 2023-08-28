@@ -1,0 +1,8 @@
+D:\VC\PROG6212\GR1\CustomTypes\CustomTypes\bin\Debug\CustomTypes.exe.config
+D:\VC\PROG6212\GR1\CustomTypes\CustomTypes\bin\Debug\CustomTypes.exe
+D:\VC\PROG6212\GR1\CustomTypes\CustomTypes\bin\Debug\CustomTypes.pdb
+D:\VC\PROG6212\GR1\CustomTypes\CustomTypes\obj\Debug\CustomTypes.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR1\CustomTypes\CustomTypes\obj\Debug\CustomTypes.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6212\GR1\CustomTypes\CustomTypes\obj\Debug\CustomTypes.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR1\CustomTypes\CustomTypes\obj\Debug\CustomTypes.exe
+D:\VC\PROG6212\GR1\CustomTypes\CustomTypes\obj\Debug\CustomTypes.pdb

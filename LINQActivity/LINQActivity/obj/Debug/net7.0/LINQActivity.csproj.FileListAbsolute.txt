@@ -1,0 +1,15 @@
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\bin\Debug\net7.0\LINQActivity.exe
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\bin\Debug\net7.0\LINQActivity.deps.json
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\bin\Debug\net7.0\LINQActivity.runtimeconfig.json
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\bin\Debug\net7.0\LINQActivity.dll
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\bin\Debug\net7.0\LINQActivity.pdb
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\obj\Debug\net7.0\LINQActivity.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\obj\Debug\net7.0\LINQActivity.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\obj\Debug\net7.0\LINQActivity.AssemblyInfoInputs.cache
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\obj\Debug\net7.0\LINQActivity.AssemblyInfo.cs
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\obj\Debug\net7.0\LINQActivity.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\obj\Debug\net7.0\LINQActivity.dll
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\obj\Debug\net7.0\refint\LINQActivity.dll
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\obj\Debug\net7.0\LINQActivity.pdb
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\obj\Debug\net7.0\LINQActivity.genruntimeconfig.cache
+D:\VC\PROG6212\GR1\LINQActivity\LINQActivity\obj\Debug\net7.0\ref\LINQActivity.dll

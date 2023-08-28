@@ -1,0 +1,8 @@
+D:\VC\PROG6212\GR1\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+D:\VC\PROG6212\GR1\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+D:\VC\PROG6212\GR1\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+D:\VC\PROG6212\GR1\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR1\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6212\GR1\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR1\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+D:\VC\PROG6212\GR1\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.pdb
