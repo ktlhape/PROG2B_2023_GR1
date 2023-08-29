@@ -1,0 +1,23 @@
+﻿<Window x:Class="MyTaskManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyTaskManager"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Favourites">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="All Processes">
+                <Grid Background="#FFE5E5E5">
+                    <ListBox Name="lstDisplay" Height="300" Margin="0,21,0,85" FontSize="20"/>
+                    <Button x:Name="btnEndTask" Content="End Task" FontSize="20" HorizontalAlignment="Left" Margin="596,340,0,0" VerticalAlignment="Top" Height="38" Width="124" Click="btnEndTask_Click"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>
