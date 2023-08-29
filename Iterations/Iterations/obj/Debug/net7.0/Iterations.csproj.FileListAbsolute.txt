@@ -1,0 +1,15 @@
+D:\VC\PROG6212\GR1\Iterations\Iterations\bin\Debug\net7.0\Iterations.exe
+D:\VC\PROG6212\GR1\Iterations\Iterations\bin\Debug\net7.0\Iterations.deps.json
+D:\VC\PROG6212\GR1\Iterations\Iterations\bin\Debug\net7.0\Iterations.runtimeconfig.json
+D:\VC\PROG6212\GR1\Iterations\Iterations\bin\Debug\net7.0\Iterations.dll
+D:\VC\PROG6212\GR1\Iterations\Iterations\bin\Debug\net7.0\Iterations.pdb
+D:\VC\PROG6212\GR1\Iterations\Iterations\obj\Debug\net7.0\Iterations.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR1\Iterations\Iterations\obj\Debug\net7.0\Iterations.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\PROG6212\GR1\Iterations\Iterations\obj\Debug\net7.0\Iterations.AssemblyInfoInputs.cache
+D:\VC\PROG6212\GR1\Iterations\Iterations\obj\Debug\net7.0\Iterations.AssemblyInfo.cs
+D:\VC\PROG6212\GR1\Iterations\Iterations\obj\Debug\net7.0\Iterations.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR1\Iterations\Iterations\obj\Debug\net7.0\Iterations.dll
+D:\VC\PROG6212\GR1\Iterations\Iterations\obj\Debug\net7.0\refint\Iterations.dll
+D:\VC\PROG6212\GR1\Iterations\Iterations\obj\Debug\net7.0\Iterations.pdb
+D:\VC\PROG6212\GR1\Iterations\Iterations\obj\Debug\net7.0\Iterations.genruntimeconfig.cache
+D:\VC\PROG6212\GR1\Iterations\Iterations\obj\Debug\net7.0\ref\Iterations.dll
