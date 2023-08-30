@@ -1,0 +1,15 @@
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\bin\Debug\net7.0\AsyncProgramming.exe
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\bin\Debug\net7.0\AsyncProgramming.deps.json
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\bin\Debug\net7.0\AsyncProgramming.runtimeconfig.json
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\bin\Debug\net7.0\AsyncProgramming.dll
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\bin\Debug\net7.0\AsyncProgramming.pdb
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\obj\Debug\net7.0\AsyncProgramming.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\obj\Debug\net7.0\AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\obj\Debug\net7.0\AsyncProgramming.AssemblyInfoInputs.cache
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\obj\Debug\net7.0\AsyncProgramming.AssemblyInfo.cs
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\obj\Debug\net7.0\AsyncProgramming.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\obj\Debug\net7.0\AsyncProgramming.dll
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\obj\Debug\net7.0\refint\AsyncProgramming.dll
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\obj\Debug\net7.0\AsyncProgramming.pdb
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\obj\Debug\net7.0\AsyncProgramming.genruntimeconfig.cache
+D:\VC\PROG6212\GR1\AsyncProgramming\AsyncProgramming\obj\Debug\net7.0\ref\AsyncProgramming.dll

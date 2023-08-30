@@ -1,0 +1,15 @@
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\bin\Debug\net7.0\Multithreading.exe
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\bin\Debug\net7.0\Multithreading.deps.json
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\bin\Debug\net7.0\Multithreading.runtimeconfig.json
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\bin\Debug\net7.0\Multithreading.dll
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\bin\Debug\net7.0\Multithreading.pdb
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\obj\Debug\net7.0\Multithreading.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\obj\Debug\net7.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\obj\Debug\net7.0\Multithreading.AssemblyInfoInputs.cache
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\obj\Debug\net7.0\Multithreading.AssemblyInfo.cs
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\obj\Debug\net7.0\Multithreading.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\obj\Debug\net7.0\Multithreading.dll
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\obj\Debug\net7.0\refint\Multithreading.dll
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\obj\Debug\net7.0\Multithreading.pdb
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\obj\Debug\net7.0\Multithreading.genruntimeconfig.cache
+D:\VC\PROG6212\GR1\Multithreading\Multithreading\obj\Debug\net7.0\ref\Multithreading.dll
