@@ -1,0 +1,11 @@
+D:\VC\PROG6212\GR1\TestingStudentLibrary\TestingStudentLibrary\bin\Debug\TestingStudentLibrary.exe.config
+D:\VC\PROG6212\GR1\TestingStudentLibrary\TestingStudentLibrary\bin\Debug\TestingStudentLibrary.exe
+D:\VC\PROG6212\GR1\TestingStudentLibrary\TestingStudentLibrary\bin\Debug\TestingStudentLibrary.pdb
+D:\VC\PROG6212\GR1\TestingStudentLibrary\TestingStudentLibrary\bin\Debug\StudentLibrary.dll
+D:\VC\PROG6212\GR1\TestingStudentLibrary\TestingStudentLibrary\bin\Debug\StudentLibrary.pdb
+D:\VC\PROG6212\GR1\TestingStudentLibrary\TestingStudentLibrary\obj\Debug\TestingStudentLibrary.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR1\TestingStudentLibrary\TestingStudentLibrary\obj\Debug\TestingStudentLibrary.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6212\GR1\TestingStudentLibrary\TestingStudentLibrary\obj\Debug\TestingStudentLibrary.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR1\TestingStudentLibrary\TestingStudentLibrary\obj\Debug\TestingStudentLibrary.csproj.CopyComplete
+D:\VC\PROG6212\GR1\TestingStudentLibrary\TestingStudentLibrary\obj\Debug\TestingStudentLibrary.exe
+D:\VC\PROG6212\GR1\TestingStudentLibrary\TestingStudentLibrary\obj\Debug\TestingStudentLibrary.pdb

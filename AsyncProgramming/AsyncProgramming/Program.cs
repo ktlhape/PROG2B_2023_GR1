@@ -34,7 +34,6 @@ namespace AsyncProgramming
         }
         static async Task EvenNumbers()
         {
-            
             for (int i = 1; i <= 10; i++)
             {
                 await Task.Delay(2000);

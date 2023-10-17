@@ -1,0 +1,6 @@
+D:\VC\PROG6212\GR1\StudentLibrary\StudentLibrary\bin\Debug\StudentLibrary.dll
+D:\VC\PROG6212\GR1\StudentLibrary\StudentLibrary\bin\Debug\StudentLibrary.pdb
+D:\VC\PROG6212\GR1\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR1\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR1\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.dll
+D:\VC\PROG6212\GR1\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.pdb
